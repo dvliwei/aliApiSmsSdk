@@ -1,7 +1,7 @@
 {
-    "name": "aliyuncs/aliyun-dysms-international-php-sdk",
-    "description": "Aliyun SMS SDK for PHP",
-    "keywords": [ "aliyun", "SMS", "sdk" ],
+    "name": "aliyuncs/aliyun-dysms-APi-php-sdk",
+    "description": "Aliyun API SMS SDK for PHP",
+    "keywords": [ "aliyun", "SMS", "sdk","api" ],
     "type": "library",
     "license": "Apache-2.0",
     "homepage": "https://sms-intl.console.aliyun.com",
