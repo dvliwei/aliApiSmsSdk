@@ -1,5 +1,5 @@
 {
-    "name": "aliyuncs/aliyun-dysms-APi-php-sdk",
+    "name": "aliyuncs/aliyun-dysms-api-php-sdk",
     "description": "Aliyun API SMS SDK for PHP",
     "keywords": [ "aliyun", "SMS", "sdk","api" ],
     "type": "library",
